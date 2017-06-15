@@ -1,0 +1,60 @@
+body {
+    background-image: url(ok.jpg);
+    background-color: #cccccc;
+    background-size: 1500px 700px;
+    background-repeat: no-repeat;
+    text-shadow: 2px 2px  #808080;
+}
+
+.name-title {
+color:#FFD700;
+}
+
+.intros{
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#im{
+  margin-left: 15.5cm;
+}
+#hi{
+margin-left: 16.5cm;
+color:inherit;#4000ff
+}
+
+#k{
+    margin-top: -232.5px;
+    margin-bottom: 1px;
+    margin-right: 150px;
+    margin-left: 205px;
+}
+#pic{
+    margin-top: -200px;
+    margin-bottom: 100px;
+    margin-right: 1000px;
+    margin-left: 900px
+
+   -ms-transform:      rotate(80deg);
+
+   -webkit-transform:  rotate(-40deg);
+
+
+   }
+}
+
+#i{
+    font-size: 17px;
+
+}
+.intrests{
+     margin-left: 550px;
+}
+.visited
+{
+    text-decoration: none;
+    decoration: none;
+}
+.links{
+  text-shadow: 2px 2px  #808080;
+text-decoration-color: #FFF8DC 
+}
